@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @exorcist45
+- 👋 Hi, I’m Ashutosh Chauhan @exorcist45
 - 👀 I’m interested in Data Structures, Cyber Security, Gaming, Web Development, Linux
-- 🌱 I’m currently learning DSA using C++
+- 🌱 I’m currently pursuing B. Tech. in Computer Science and Engineering from VIT Bhopal University
 - 💞️ I’m looking to collaborate on any relevant project
 
 <!---
