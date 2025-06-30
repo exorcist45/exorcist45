@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Chauhan @exorcist45
 - 👀 I’m interested in Data Structures, Cyber Security, Gaming, Web Development, Linux
-- 🌱 I’m currently pursuing B. Tech. in Computer Science and Engineering from VIT Bhopal University
+- 🌱 I’m currently working at TCS as Control System Developer.
 - 💞️ I’m looking to collaborate on any relevant project
 
 <!---
